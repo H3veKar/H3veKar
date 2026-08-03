@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou a Hevellyn!
 
-🎓 Estudante no **2º período de Ciência da Computação** 
+🎓 Estudante no **3º período de Ciência da Computação** 
 💻 **Técnica em Informática pelo IFG**
-🌱 Aprendendo **Java, C, C++ e desenvolvimento web (React + Spring Boot)**  
 
 ---
 
